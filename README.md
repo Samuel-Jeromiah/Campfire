@@ -91,7 +91,7 @@ campfire/
 Pipeline:
 
 ```
-pip install -r requirements.txt
+pip install -r pipeline-requirements.txt
 python scripts/01_split_platforms.py
 python scripts/02_unify.py
 python scripts/04_flag_errors.py
