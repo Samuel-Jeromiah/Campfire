@@ -83,7 +83,7 @@ export default function ROASTrendChart({ data }: Props) {
         ...
       ]
   */
-  const monthMap: Record<string, Record<string, number>> = {};
+  const monthMap: Record<string, Record<string, string | number>> = {};
 
   data.forEach((row) => {
     if (!monthMap[row.month]) {
