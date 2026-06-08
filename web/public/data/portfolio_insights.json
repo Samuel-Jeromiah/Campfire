@@ -1,0 +1,418 @@
+{
+  "avg_ctr_by_platform": [
+    {
+      "platform": "Google Ads",
+      "avg_ctr_pct": 3.973,
+      "client_count": 3
+    },
+    {
+      "platform": "Meta Ads",
+      "avg_ctr_pct": 2.483,
+      "client_count": 3
+    },
+    {
+      "platform": "TikTok Ads",
+      "avg_ctr_pct": 5.516,
+      "client_count": 3
+    }
+  ],
+  "best_channel_by_month": [
+    {
+      "month": "2024-01",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.032,
+      "total_spend": 245326.72,
+      "client_count": 3
+    },
+    {
+      "month": "2024-02",
+      "platform": "TikTok Ads",
+      "avg_roas": 10.225,
+      "total_spend": 245512.83,
+      "client_count": 3
+    },
+    {
+      "month": "2024-03",
+      "platform": "TikTok Ads",
+      "avg_roas": 9.385,
+      "total_spend": 165926.65,
+      "client_count": 3
+    },
+    {
+      "month": "2024-04",
+      "platform": "TikTok Ads",
+      "avg_roas": 9.433,
+      "total_spend": 235109.38,
+      "client_count": 3
+    },
+    {
+      "month": "2024-05",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.772,
+      "total_spend": 155396.81,
+      "client_count": 3
+    },
+    {
+      "month": "2024-06",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.4,
+      "total_spend": 160825.18,
+      "client_count": 3
+    },
+    {
+      "month": "2024-07",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.811,
+      "total_spend": 175240.02,
+      "client_count": 3
+    },
+    {
+      "month": "2024-08",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.935,
+      "total_spend": 172372.86,
+      "client_count": 3
+    },
+    {
+      "month": "2024-09",
+      "platform": "TikTok Ads",
+      "avg_roas": 10.588,
+      "total_spend": 216370.24,
+      "client_count": 3
+    },
+    {
+      "month": "2024-10",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.397,
+      "total_spend": 259981.26,
+      "client_count": 3
+    },
+    {
+      "month": "2024-11",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.055,
+      "total_spend": 196654.77,
+      "client_count": 3
+    },
+    {
+      "month": "2024-12",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.274,
+      "total_spend": 210018.09,
+      "client_count": 3
+    }
+  ],
+  "monthly_platform_roas": [
+    {
+      "month": "2024-01",
+      "platform": "Google Ads",
+      "avg_roas": 3.923,
+      "total_spend": 380635.04,
+      "client_count": 3
+    },
+    {
+      "month": "2024-01",
+      "platform": "Meta Ads",
+      "avg_roas": 7.732,
+      "total_spend": 219392.2,
+      "client_count": 3
+    },
+    {
+      "month": "2024-01",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.032,
+      "total_spend": 245326.72,
+      "client_count": 3
+    },
+    {
+      "month": "2024-02",
+      "platform": "Google Ads",
+      "avg_roas": 3.869,
+      "total_spend": 510693.44,
+      "client_count": 3
+    },
+    {
+      "month": "2024-02",
+      "platform": "Meta Ads",
+      "avg_roas": 6.271,
+      "total_spend": 145692.78,
+      "client_count": 3
+    },
+    {
+      "month": "2024-02",
+      "platform": "TikTok Ads",
+      "avg_roas": 10.225,
+      "total_spend": 245512.83,
+      "client_count": 3
+    },
+    {
+      "month": "2024-03",
+      "platform": "Google Ads",
+      "avg_roas": 4.109,
+      "total_spend": 485087.85,
+      "client_count": 3
+    },
+    {
+      "month": "2024-03",
+      "platform": "Meta Ads",
+      "avg_roas": 6.763,
+      "total_spend": 120770.05,
+      "client_count": 3
+    },
+    {
+      "month": "2024-03",
+      "platform": "TikTok Ads",
+      "avg_roas": 9.385,
+      "total_spend": 165926.65,
+      "client_count": 3
+    },
+    {
+      "month": "2024-04",
+      "platform": "Google Ads",
+      "avg_roas": 4.132,
+      "total_spend": 525863.97,
+      "client_count": 3
+    },
+    {
+      "month": "2024-04",
+      "platform": "Meta Ads",
+      "avg_roas": 7.49,
+      "total_spend": 124214.73,
+      "client_count": 3
+    },
+    {
+      "month": "2024-04",
+      "platform": "TikTok Ads",
+      "avg_roas": 9.433,
+      "total_spend": 235109.38,
+      "client_count": 3
+    },
+    {
+      "month": "2024-05",
+      "platform": "Google Ads",
+      "avg_roas": 3.869,
+      "total_spend": 510874.51,
+      "client_count": 3
+    },
+    {
+      "month": "2024-05",
+      "platform": "Meta Ads",
+      "avg_roas": 6.617,
+      "total_spend": 147471.44,
+      "client_count": 3
+    },
+    {
+      "month": "2024-05",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.772,
+      "total_spend": 155396.81,
+      "client_count": 3
+    },
+    {
+      "month": "2024-06",
+      "platform": "Google Ads",
+      "avg_roas": 3.738,
+      "total_spend": 522145.26,
+      "client_count": 3
+    },
+    {
+      "month": "2024-06",
+      "platform": "Meta Ads",
+      "avg_roas": 6.311,
+      "total_spend": 189424.81,
+      "client_count": 3
+    },
+    {
+      "month": "2024-06",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.4,
+      "total_spend": 160825.18,
+      "client_count": 3
+    },
+    {
+      "month": "2024-07",
+      "platform": "Google Ads",
+      "avg_roas": 3.544,
+      "total_spend": 401088.52,
+      "client_count": 3
+    },
+    {
+      "month": "2024-07",
+      "platform": "Meta Ads",
+      "avg_roas": 7.895,
+      "total_spend": 135420.52,
+      "client_count": 3
+    },
+    {
+      "month": "2024-07",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.811,
+      "total_spend": 175240.02,
+      "client_count": 3
+    },
+    {
+      "month": "2024-08",
+      "platform": "Google Ads",
+      "avg_roas": 5.523,
+      "total_spend": 341552.45,
+      "client_count": 3
+    },
+    {
+      "month": "2024-08",
+      "platform": "Meta Ads",
+      "avg_roas": 6.315,
+      "total_spend": 166351.85,
+      "client_count": 3
+    },
+    {
+      "month": "2024-08",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.935,
+      "total_spend": 172372.86,
+      "client_count": 3
+    },
+    {
+      "month": "2024-09",
+      "platform": "Google Ads",
+      "avg_roas": 3.972,
+      "total_spend": 499910.24,
+      "client_count": 3
+    },
+    {
+      "month": "2024-09",
+      "platform": "Meta Ads",
+      "avg_roas": 6.088,
+      "total_spend": 185648.94,
+      "client_count": 3
+    },
+    {
+      "month": "2024-09",
+      "platform": "TikTok Ads",
+      "avg_roas": 10.588,
+      "total_spend": 216370.24,
+      "client_count": 3
+    },
+    {
+      "month": "2024-10",
+      "platform": "Google Ads",
+      "avg_roas": 5.003,
+      "total_spend": 403669.2,
+      "client_count": 3
+    },
+    {
+      "month": "2024-10",
+      "platform": "Meta Ads",
+      "avg_roas": 7.499,
+      "total_spend": 166242.63,
+      "client_count": 3
+    },
+    {
+      "month": "2024-10",
+      "platform": "TikTok Ads",
+      "avg_roas": 8.397,
+      "total_spend": 259981.26,
+      "client_count": 3
+    },
+    {
+      "month": "2024-11",
+      "platform": "Google Ads",
+      "avg_roas": 3.727,
+      "total_spend": 472420.81,
+      "client_count": 3
+    },
+    {
+      "month": "2024-11",
+      "platform": "Meta Ads",
+      "avg_roas": 6.709,
+      "total_spend": 170797.75,
+      "client_count": 3
+    },
+    {
+      "month": "2024-11",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.055,
+      "total_spend": 196654.77,
+      "client_count": 3
+    },
+    {
+      "month": "2024-12",
+      "platform": "Google Ads",
+      "avg_roas": 4.217,
+      "total_spend": 590075.09,
+      "client_count": 3
+    },
+    {
+      "month": "2024-12",
+      "platform": "Meta Ads",
+      "avg_roas": 7.95,
+      "total_spend": 155724.89,
+      "client_count": 3
+    },
+    {
+      "month": "2024-12",
+      "platform": "TikTok Ads",
+      "avg_roas": 11.274,
+      "total_spend": 210018.09,
+      "client_count": 3
+    }
+  ],
+  "cpm_ranges_by_platform": [
+    {
+      "platform": "Google Ads",
+      "cpm_min": 15.09,
+      "cpm_p25": 50.57,
+      "cpm_median": 75.91,
+      "cpm_p75": 114.95,
+      "cpm_max": 231.2,
+      "client_count": 3
+    },
+    {
+      "platform": "Meta Ads",
+      "cpm_min": 4.68,
+      "cpm_p25": 18.52,
+      "cpm_median": 28.73,
+      "cpm_p75": 43.32,
+      "cpm_max": 107.24,
+      "client_count": 3
+    },
+    {
+      "platform": "TikTok Ads",
+      "cpm_min": 9.11,
+      "cpm_p25": 32.08,
+      "cpm_median": 49.48,
+      "cpm_p75": 73.7,
+      "cpm_max": 154.56,
+      "client_count": 3
+    }
+  ],
+  "spend_share_by_platform": [
+    {
+      "platform": "Google Ads",
+      "total_spend": 5644016.38,
+      "spend_share_pct": 56.4,
+      "client_count": 3
+    },
+    {
+      "platform": "Meta Ads",
+      "total_spend": 1927152.59,
+      "spend_share_pct": 19.3,
+      "client_count": 3
+    },
+    {
+      "platform": "TikTok Ads",
+      "total_spend": 2438734.81,
+      "spend_share_pct": 24.4,
+      "client_count": 3
+    }
+  ],
+  "portfolio_kpis": {
+    "total_spend": 10009903.78,
+    "total_impressions": 168367645,
+    "total_clicks": 6469548,
+    "total_conversions": 296995,
+    "avg_roas": 6.514,
+    "avg_ctr_pct": 3.842,
+    "avg_cpm": 59.44,
+    "client_count": 3
+  }
+}

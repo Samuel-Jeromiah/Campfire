@@ -1,0 +1,219 @@
+campaign_id,campaign_name,platform,industry,country,date,impressions,clicks,spend_usd,conversions,revenue,roas,ctr,cpc,cpa,flag_reason
+Display_Fintech,Display - Fintech,Meta Ads,Fintech,UAE,2024-11-16,,,,193,28429.29,4.87,0.0301,1.0,30.24,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,UAE,2024-08-24,,,,233,45906.84,6.41,0.0387,1.77,30.75,missing_impressions | missing_clicks | missing_spend_usd
+Search_Edtech,Search - Edtech,Meta Ads,EdTech,India,2024-10-23,,,,30,3133.33,3.47,0.0163,0.37,30.06,missing_impressions | missing_clicks | missing_spend_usd
+Display_Saas,Display - Saas,Meta Ads,SaaS,USA,2024-11-25,,,,29,1746.46,3.34,0.0251,1.15,18.04,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Meta Ads,Healthcare,Canada,2024-02-28,,,,64,17165.43,8.07,0.0089,2.0,33.25,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,Meta Ads,SaaS,Australia,2024-01-23,,,,194,39560.54,8.96,0.0331,1.47,22.75,missing_impressions | missing_clicks | missing_spend_usd
+Search_Edtech,Search - Edtech,Meta Ads,EdTech,Australia,2024-11-02,,,,379,73104.85,20.21,0.032,0.72,9.54,missing_impressions | missing_clicks | missing_spend_usd
+Display_E-Commerce,Display - E-Commerce,Meta Ads,E-commerce,India,2024-07-27,,,,70,3191.14,1.48,0.0346,0.83,30.88,missing_impressions | missing_clicks | missing_spend_usd
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,Canada,2024-02-17,150631.0,5648.0,10957.12,111,21671.9,1.98,0.0375,1.94,98.71,duplicate_row
+Display_E-Commerce,Display - E-Commerce,Meta Ads,E-commerce,Germany,2024-01-05,,,,32,4757.82,6.85,0.0178,0.44,21.71,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Meta Ads,Healthcare,USA,2024-07-14,111802.0,2247.0,3707.55,163,6163.84,1.66,0.0201,1.65,22.75,duplicate_row
+Video_Healthcare,Video - Healthcare,Meta Ads,Healthcare,UK,2024-09-22,,,,45,2243.79,2.65,0.0382,1.43,18.84,missing_impressions | missing_clicks | missing_spend_usd
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,Canada,2024-08-16,,,,143,36419.79,23.54,0.0221,0.57,10.82,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,Meta Ads,SaaS,UK,2024-10-04,,,,7,2000.84,9.17,0.0196,2.02,31.17,missing_impressions | missing_clicks | missing_spend_usd
+Search_E-Commerce,Search - E-Commerce,Meta Ads,E-commerce,UAE,2024-08-08,8188.0,272.0,315.52,14,3745.84,11.87,0.0333,1.16,22.54,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,India,2024-07-19,,,,193,7460.79,1.6,0.0177,1.36,24.2,missing_impressions | missing_clicks | missing_spend_usd
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,USA,2024-02-17,118566.0,3711.0,4193.43,58,14643.53,3.49,0.0313,1.13,72.3,duplicate_row
+Search_E-Commerce,Search - E-Commerce,Meta Ads,E-commerce,Australia,2024-06-16,,,,254,21909.38,3.8,0.0322,1.31,22.69,missing_impressions | missing_clicks | missing_spend_usd
+Display_Saas,Display - Saas,Meta Ads,SaaS,UK,2024-02-20,,,,250,22027.39,3.19,0.0258,1.8,27.65,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,Meta Ads,EdTech,UK,2024-01-04,184729.0,2586.0,2327.4,201,16864.93,7.25,0.014,0.9,11.58,duplicate_row
+Shopping_Saas,Shopping - Saas,Meta Ads,SaaS,UK,2024-12-25,46291.0,1976.0,1442.48,74,2307.39,1.6,0.0427,0.73,19.49,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,UAE,2024-08-31,60919.0,1851.0,3313.29,131,19210.72,5.8,0.0304,1.79,25.29,duplicate_row
+Search_Edtech,Search - Edtech,Meta Ads,EdTech,Germany,2024-03-15,,,,308,62119.33,14.14,0.0363,1.03,14.27,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,UAE,2024-06-19,,,,302,21392.38,2.38,0.0254,2.31,29.82,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,Meta Ads,SaaS,India,2024-09-23,,,,7,672.01,0.97,0.0118,2.01,99.35,missing_impressions | missing_clicks | missing_spend_usd
+Search_Healthcare,Search - Healthcare,Meta Ads,Healthcare,UK,2024-12-08,46936.0,2234.0,1764.86,55,5977.87,3.39,0.0476,0.79,32.09,duplicate_row
+Display_Fintech,Display - Fintech,Meta Ads,Fintech,UAE,2024-11-08,,,,168,30028.61,18.67,0.0132,0.67,9.58,missing_impressions | missing_clicks | missing_spend_usd
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,Australia,2024-06-11,,,,52,14121.79,10.79,0.021,0.61,25.17,missing_impressions | missing_clicks | missing_spend_usd
+Display_E-Commerce,Display - E-Commerce,Meta Ads,E-commerce,Canada,2024-09-11,38762.0,1007.0,684.76,16,3871.2,5.65,0.026,0.68,42.8,duplicate_row
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,USA,2024-05-18,,,,64,2136.83,2.8,0.0147,0.9,11.93,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,UK,2024-04-18,78480.0,1389.0,2347.41,19,2972.32,1.27,0.0177,1.69,123.55,duplicate_row
+Shopping_Saas,Shopping - Saas,Meta Ads,SaaS,UK,2024-06-08,12712.0,212.0,360.4,9,375.03,1.04,0.0167,1.7,40.04,duplicate_row
+Video_Healthcare,Video - Healthcare,Meta Ads,Healthcare,India,2024-05-03,,,,80,2769.22,0.4,0.0401,0.91,86.3,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,USA,2024-02-16,178553.0,7213.0,16445.64,556,50559.85,3.07,0.0404,2.28,29.58,duplicate_row
+Video_Edtech,Video - Edtech,Meta Ads,EdTech,Australia,2024-10-18,66265.0,1881.0,3837.24,76,2782.02,0.73,0.0284,2.04,50.49,duplicate_row
+Search_Healthcare,Search - Healthcare,Meta Ads,Healthcare,UAE,2024-04-29,80589.0,1160.0,1102.0,75,21781.43,19.77,0.0144,0.95,14.69,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,India,2024-12-08,126432.0,1567.0,2585.55,110,31358.68,12.13,0.0124,1.65,23.51,duplicate_row
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,Canada,2024-08-04,,,,338,32920.35,7.7,0.0259,0.85,12.65,missing_impressions | missing_clicks | missing_spend_usd
+Search_E-Commerce,Search - E-Commerce,Meta Ads,E-commerce,UAE,2024-08-19,19284.0,642.0,1007.94,21,5907.29,5.86,0.0333,1.57,48.0,duplicate_row
+Display_E-Commerce,Display - E-Commerce,Meta Ads,E-commerce,Canada,2024-03-17,,,,14,2258.16,1.92,0.0125,1.78,83.91,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,Meta Ads,Healthcare,UAE,2024-06-24,,,,101,6046.11,2.7,0.0222,1.35,22.2,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,Meta Ads,EdTech,UAE,2024-05-20,85846.0,2274.0,977.82,113,8382.57,8.57,0.0265,0.43,8.65,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Meta Ads,EdTech,Germany,2024-03-21,160091.0,4210.0,4504.7,322,62914.38,13.97,0.0263,1.07,13.99,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,Australia,2024-03-20,25243.0,580.0,1148.4,13,3883.09,3.38,0.023,1.98,88.34,duplicate_row
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,India,2024-03-27,176656.0,2897.0,5417.39,86,23130.95,4.27,0.0164,1.87,62.99,duplicate_row
+Video_Fintech,Video - Fintech,Meta Ads,Fintech,UK,2024-01-18,72278.0,2421.0,3123.09,26,5625.44,1.8,0.0335,1.29,120.12,duplicate_row
+Display_Saas,Display - Saas,Meta Ads,SaaS,USA,2024-12-30,60448.0,1493.0,3418.97,89,24577.78,7.19,0.0247,2.29,38.42,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,UK,2024-04-04,,,,35,1488.52,3.74,0.018,0.83,11.36,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,UK,2024-08-14,122710.0,5129.0,5231.58,157,24344.87,4.65,0.0418,1.02,33.32,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,India,2024-02-16,19040.0,784.0,1513.12,39,5591.9,3.7,0.0412,1.93,38.8,duplicate_row
+Video_Fintech,Video - Fintech,Meta Ads,Fintech,Germany,2024-03-27,94786.0,2682.0,4023.0,155,6510.51,1.62,0.0283,1.5,25.95,duplicate_row
+Display_Fintech,Display - Fintech,Meta Ads,Fintech,Australia,2024-04-04,,,,96,14890.27,12.94,0.0351,0.77,11.99,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Meta Ads,Healthcare,UK,2024-07-05,,,,29,4720.08,3.26,0.024,1.43,49.95,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Meta Ads,Healthcare,UAE,2024-11-17,,,,167,41334.16,24.94,0.0194,0.5,9.93,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,USA,2024-04-10,,,,8,624.2,3.82,0.0317,0.51,20.4,missing_impressions | missing_clicks | missing_spend_usd
+Display_Fintech,Display - Fintech,Meta Ads,Fintech,USA,2024-04-24,,,,169,14776.11,2.8,0.0428,1.79,31.27,missing_impressions | missing_clicks | missing_spend_usd
+Video_Edtech,Video - Edtech,Meta Ads,EdTech,Germany,2024-06-20,95987.0,1919.0,3281.49,124,28533.79,8.7,0.02,1.71,26.46,duplicate_row
+Video_Fintech,Video - Fintech,Meta Ads,Fintech,UK,2024-01-18,72278.0,2421.0,3123.09,26,5625.44,1.8,0.0335,1.29,120.12,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,UK,2024-01-16,167893.0,4432.0,2570.56,66,15989.78,6.22,0.0264,0.58,38.95,duplicate_row
+Display_Saas,Display - Saas,Meta Ads,SaaS,UAE,2024-10-12,173307.0,3292.0,3390.76,74,21574.44,6.36,0.019,1.03,45.82,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,USA,2024-05-20,83678.0,2761.0,4583.26,35,4630.48,1.01,0.033,1.66,130.95,duplicate_row
+Search_Healthcare,Search - Healthcare,Meta Ads,Healthcare,UK,2024-08-11,123372.0,3355.0,7716.5,224,57352.38,7.43,0.0272,2.3,34.45,duplicate_row
+Shopping_Saas,Shopping - Saas,Meta Ads,SaaS,India,2024-04-17,,,,40,6289.61,6.89,0.0235,1.27,22.83,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,USA,2024-04-10,10108.0,320.0,163.2,8,624.2,3.82,0.0317,0.51,20.4,duplicate_row
+Video_Fintech,Video - Fintech,Meta Ads,Fintech,India,2024-09-04,27931.0,608.0,924.16,10,1389.72,1.5,0.0218,1.52,92.42,duplicate_row
+Search_Fintech,Search - Fintech,Meta Ads,Fintech,USA,2024-08-14,25930.0,609.0,334.95,7,509.29,1.52,0.0235,0.55,47.85,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,India,2024-10-04,120631.0,1532.0,1179.64,114,25286.78,21.44,0.0127,0.77,10.35,duplicate_row
+Search_Saas,Search - Saas,Meta Ads,SaaS,Germany,2024-11-29,172967.0,5016.0,10433.28,331,75767.62,7.26,0.029,2.08,31.52,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Meta Ads,Fintech,UAE,2024-08-24,104616.0,4048.0,7164.96,233,45906.84,6.41,0.0387,1.77,30.75,duplicate_row
+Display_Saas,Display - Saas,Meta Ads,SaaS,USA,2024-11-25,18140.0,455.0,523.25,29,1746.46,3.34,0.0251,1.15,18.04,duplicate_row
+Video_Saas,Video - Saas,Meta Ads,SaaS,Canada,2024-09-06,98079.0,3226.0,7032.68,44,1401.71,0.2,0.0329,2.18,159.83,duplicate_row
+Search_Edtech,Search - Edtech,Meta Ads,EdTech,UAE,2024-07-18,18706.0,458.0,201.52,35,7330.28,36.37,0.0245,0.44,5.76,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Meta Ads,E-commerce,Canada,2024-12-22,167917.0,6246.0,3747.6,413,25997.62,6.94,0.0372,0.6,9.07,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Meta Ads,E-commerce,UAE,2024-04-22,98264.0,3144.0,4904.64,129,23127.27,4.72,0.032,1.56,38.02,duplicate_row
+Video_Saas,Video - Saas,Meta Ads,SaaS,USA,2024-10-15,39253.0,1122.0,1402.5,81,15452.61,11.02,0.0286,1.25,17.31,duplicate_row
+Video_Fintech,Video - Fintech,Google Ads,Fintech,Germany,2024-06-08,,,,112,25060.16,2.64,0.0292,3.37,84.91,missing_impressions | missing_clicks | missing_spend_usd
+Display_Saas,Display - Saas,Google Ads,SaaS,India,2024-04-15,12896.0,535.0,524.3,20,2475.65,4.72,0.0415,0.98,26.21,duplicate_row
+Display_Saas,Display - Saas,Google Ads,SaaS,Germany,2024-05-23,,,,74,13873.48,1.23,0.0554,1.75,152.01,missing_impressions | missing_clicks | missing_spend_usd
+Video_Edtech,Video - Edtech,Google Ads,EdTech,Germany,2024-12-04,,,,90,26198.96,6.41,0.0636,2.17,45.4,missing_impressions | missing_clicks | missing_spend_usd
+Search_Healthcare,Search - Healthcare,Google Ads,Healthcare,Canada,2024-12-01,,,,214,24710.24,4.16,0.0292,1.49,27.74,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,UAE,2024-03-05,,,,11,1542.21,2.26,0.0265,3.38,62.07,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Google Ads,Healthcare,Canada,2024-11-05,,,,21,4396.12,3.56,0.0257,1.31,58.83,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,Google Ads,Fintech,UK,2024-07-05,,,,5,872.75,1.07,0.052,2.29,163.51,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,Google Ads,Fintech,UK,2024-06-24,,,,331,17255.28,1.49,0.0543,1.81,34.93,missing_impressions | missing_clicks | missing_spend_usd
+Display_Fintech,Display - Fintech,Google Ads,Fintech,Australia,2024-02-19,126635.0,4254.0,5657.82,313,28110.42,4.97,0.0336,1.33,18.08,duplicate_row
+Display_Healthcare,Display - Healthcare,Google Ads,Healthcare,Australia,2024-12-14,,,,444,122723.09,4.68,0.045,2.98,59.06,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,Google Ads,SaaS,Canada,2024-01-15,,,,39,7135.44,1.61,0.0376,2.73,113.4,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Google Ads,Healthcare,Australia,2024-12-05,,,,144,23257.77,1.38,0.0442,2.84,117.29,missing_impressions | missing_clicks | missing_spend_usd
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,India,2024-07-28,,,,310,83080.36,3.45,0.0658,2.11,77.78,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,Canada,2024-03-27,,,,393,82224.93,8.99,0.0455,1.43,23.28,missing_impressions | missing_clicks | missing_spend_usd
+Video_Saas,Video - Saas,Google Ads,SaaS,India,2024-06-28,,,,458,110383.15,9.76,0.0549,1.74,24.69,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,Google Ads,SaaS,Germany,2024-07-26,108719.0,4207.0,13462.4,121,21018.47,1.56,0.0387,3.2,111.26,duplicate_row
+Display_Fintech,Display - Fintech,Google Ads,Fintech,USA,2024-07-19,184810.0,7447.0,23234.64,334,51289.24,2.21,0.0403,3.12,69.56,duplicate_row
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,USA,2024-09-23,,,,117,11886.29,0.73,0.0423,2.88,139.42,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,India,2024-04-28,,,,49,7206.83,1.21,0.05,1.45,121.06,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,Google Ads,SaaS,Australia,2024-10-30,,,,333,91782.77,12.51,0.0269,1.51,22.02,missing_impressions | missing_clicks | missing_spend_usd
+Search_Edtech,Search - Edtech,Google Ads,EdTech,Canada,2024-06-09,,,,145,17656.92,1.3,0.0396,3.2,93.97,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,Google Ads,Fintech,UAE,2024-05-31,50111.0,2320.0,6333.6,153,30016.66,4.74,0.0463,2.73,41.4,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,UK,2024-08-04,158627.0,7725.0,22248.0,299,66700.13,3.0,0.0487,2.88,74.41,duplicate_row
+Display_Fintech,Display - Fintech,Google Ads,Fintech,India,2024-04-20,,,,124,34560.39,3.57,0.0258,2.38,78.16,missing_impressions | missing_clicks | missing_spend_usd
+Display_E-Commerce,Display - E-Commerce,Google Ads,E-commerce,UK,2024-09-25,,,,12,432.4,0.22,0.0293,2.61,160.52,missing_impressions | missing_clicks | missing_spend_usd
+Video_Edtech,Video - Edtech,Google Ads,EdTech,USA,2024-04-21,,,,459,79715.61,10.58,0.0406,0.96,16.42,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,Australia,2024-09-21,,,,73,10712.26,7.73,0.0335,1.49,18.98,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,Google Ads,Healthcare,UK,2024-06-19,,,,53,15699.11,1.97,0.0214,2.16,150.47,missing_impressions | missing_clicks | missing_spend_usd
+Display_Edtech,Display - Edtech,Google Ads,EdTech,Canada,2024-05-13,,,,142,28774.25,1.88,0.0484,2.25,108.03,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,Canada,2024-12-12,162064.0,5607.0,13568.94,77,8174.03,0.6,0.0346,2.42,176.22,duplicate_row
+Video_Edtech,Video - Edtech,Google Ads,EdTech,UAE,2024-10-25,195664.0,6378.0,16582.8,312,33814.66,2.04,0.0326,2.6,53.15,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,UK,2024-11-30,,,,160,43994.91,5.8,0.042,2.92,47.43,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,Google Ads,Healthcare,Germany,2024-08-19,125019.0,8251.0,31106.27,609,135443.82,4.35,0.066,3.77,51.08,duplicate_row
+Video_Saas,Video - Saas,Google Ads,SaaS,Canada,2024-05-26,,,,48,8087.57,3.78,0.0325,2.39,44.61,missing_impressions | missing_clicks | missing_spend_usd
+Video_Saas,Video - Saas,Google Ads,SaaS,Australia,2024-09-03,143235.0,3981.0,7285.23,125,27104.75,3.72,0.0278,1.83,58.28,duplicate_row
+Display_Saas,Display - Saas,Google Ads,SaaS,Canada,2024-05-31,117000.0,7979.0,11729.13,366,14373.81,1.23,0.0682,1.47,32.05,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,Canada,2024-05-05,,,,58,15065.19,3.27,0.0444,2.38,79.48,missing_impressions | missing_clicks | missing_spend_usd
+Display_E-Commerce,Display - E-Commerce,Google Ads,E-commerce,Germany,2024-04-17,177420.0,7646.0,18503.32,478,110744.54,5.99,0.0431,2.42,38.71,duplicate_row
+Display_Saas,Display - Saas,Google Ads,SaaS,Australia,2024-12-16,,,,7,1275.11,4.76,0.0297,1.19,38.25,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Search_E-Commerce,Search - E-Commerce,Google Ads,E-commerce,Canada,2024-09-14,,,,205,50937.22,10.32,0.0355,0.88,24.07,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_E-Commerce,Shopping - E-Commerce,Google Ads,E-commerce,Canada,2024-09-06,193613.0,9157.0,25548.03,458,127981.37,5.01,0.0473,2.79,55.78,duplicate_row
+Video_Saas,Video - Saas,Google Ads,SaaS,Canada,2024-02-17,150213.0,5242.0,16512.3,332,64497.69,3.91,0.0349,3.15,49.74,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,USA,2024-01-07,73305.0,3635.0,9014.8,47,2210.35,0.25,0.0496,2.48,191.8,duplicate_row
+Search_Edtech,Search - Edtech,Google Ads,EdTech,UK,2024-06-23,158778.0,7256.0,10884.0,431,17905.23,1.65,0.0457,1.5,25.25,duplicate_row
+Search_Healthcare,Search - Healthcare,Google Ads,Healthcare,Germany,2024-04-16,145284.0,8121.0,21601.86,503,135453.16,6.27,0.0559,2.66,42.95,duplicate_row
+Display_Edtech,Display - Edtech,Google Ads,EdTech,Canada,2024-08-18,,,,459,76527.74,5.21,0.0368,2.23,32.03,missing_impressions | missing_clicks | missing_spend_usd
+Video_Fintech,Video - Fintech,Google Ads,Fintech,UK,2024-03-11,41388.0,964.0,2930.56,72,19679.4,6.72,0.0233,3.04,40.7,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,UK,2024-01-07,33433.0,1698.0,4975.14,60,4216.81,0.85,0.0508,2.93,82.92,duplicate_row
+Video_Saas,Video - Saas,Google Ads,SaaS,UAE,2024-03-11,122784.0,6237.0,16777.53,134,15407.61,0.92,0.0508,2.69,125.21,duplicate_row
+Search_Fintech,Search - Fintech,Google Ads,Fintech,India,2024-08-20,83498.0,3531.0,3636.93,234,36561.1,10.05,0.0423,1.03,15.54,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,UK,2024-07-24,,,,357,62250.35,6.22,0.039,1.75,28.03,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,UK,2024-09-19,,,,57,15175.48,2.63,0.0245,1.45,101.17,missing_impressions | missing_clicks | missing_spend_usd
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,Canada,2024-09-10,111071.0,2865.0,8107.95,39,8971.28,1.11,0.0258,2.83,207.9,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Google Ads,Fintech,Germany,2024-03-12,92943.0,5037.0,11383.62,232,64994.16,5.71,0.0542,2.26,49.07,duplicate_row
+Search_Edtech,Search - Edtech,Google Ads,EdTech,UAE,2024-09-11,100381.0,5691.0,4723.53,321,58283.85,12.34,0.0567,0.83,14.72,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Google Ads,Fintech,Australia,2024-01-22,153953.0,5095.0,14571.7,110,30634.7,2.1,0.0331,2.86,132.47,duplicate_row
+Display_Healthcare,Display - Healthcare,Google Ads,Healthcare,UK,2024-01-27,,,,164,33307.3,9.27,0.0295,1.41,21.9,missing_impressions | missing_clicks | missing_spend_usd
+Display_Saas,Display - Saas,Google Ads,SaaS,India,2024-09-09,28068.0,990.0,999.9,28,5661.1,5.66,0.0353,1.01,35.71,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,India,2024-08-14,127211.0,3968.0,10435.84,194,37337.18,3.58,0.0312,2.63,53.79,duplicate_row
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,Germany,2024-05-25,,,,571,17839.23,1.04,0.047,1.88,30.16,missing_impressions | missing_clicks | missing_spend_usd
+Video_Fintech,Video - Fintech,Google Ads,Fintech,Canada,2024-02-18,165470.0,4136.0,3391.52,56,12113.24,3.57,0.025,0.82,60.56,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Google Ads,Fintech,USA,2024-07-18,20797.0,846.0,913.68,56,11660.97,12.76,0.0407,1.08,16.32,duplicate_row
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,USA,2024-07-10,73734.0,1990.0,1631.8,143,16954.02,10.39,0.027,0.82,11.41,duplicate_row
+Video_Fintech,Video - Fintech,Google Ads,Fintech,Australia,2024-02-25,33695.0,1277.0,3677.76,89,25041.09,6.81,0.0379,2.88,41.32,duplicate_row
+Search_Healthcare,Search - Healthcare,Google Ads,Healthcare,India,2024-11-02,,,,22,2731.41,2.9,0.0255,1.41,42.88,missing_impressions | missing_clicks | missing_spend_usd
+Video_Fintech,Video - Fintech,Google Ads,Fintech,UK,2024-04-15,99447.0,5917.0,6212.85,195,28481.71,4.58,0.0595,1.05,31.86,duplicate_row
+Display_Healthcare,Display - Healthcare,Google Ads,Healthcare,Canada,2024-08-04,144494.0,8409.0,25563.36,93,20233.22,0.79,0.0582,3.04,274.87,duplicate_row
+Search_Saas,Search - Saas,Google Ads,SaaS,UK,2024-03-30,23936.0,1211.0,3269.7,49,7236.18,2.21,0.0506,2.7,66.73,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Google Ads,Fintech,UK,2024-02-20,89431.0,3300.0,4851.0,56,9891.88,2.04,0.0369,1.47,86.62,duplicate_row
+Display_E-Commerce,Display - E-Commerce,Google Ads,E-commerce,Australia,2024-11-13,17299.0,479.0,929.26,30,3163.73,3.4,0.0277,1.94,30.98,duplicate_row
+Display_Edtech,Display - Edtech,Google Ads,EdTech,UAE,2024-11-23,80542.0,4236.0,9107.4,104,15932.35,1.75,0.0526,2.15,87.57,duplicate_row
+Display_Healthcare,Display - Healthcare,Google Ads,Healthcare,India,2024-04-05,175949.0,7108.0,17343.52,75,22062.99,1.27,0.0404,2.44,231.25,duplicate_row
+Display_E-Commerce,Display - E-Commerce,Google Ads,E-commerce,India,2024-06-30,64757.0,3976.0,5685.68,58,4380.33,0.77,0.0614,1.43,98.03,duplicate_row
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,USA,2024-09-23,133909.0,5664.0,16312.32,117,11886.29,0.73,0.0423,2.88,139.42,duplicate_row
+Shopping_Fintech,Shopping - Fintech,Google Ads,Fintech,UAE,2024-09-15,136354.0,3736.0,4333.76,152,29811.83,6.88,0.0274,1.16,28.51,duplicate_row
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,India,2024-07-28,173678.0,11428.0,24113.08,310,83080.36,3.45,0.0658,2.11,77.78,duplicate_row
+Display_Fintech,Display - Fintech,Google Ads,Fintech,Australia,2024-10-25,158481.0,6053.0,9866.39,116,30091.81,3.05,0.0382,1.63,85.06,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,UK,2024-09-16,13605.0,300.0,624.0,21,4495.51,7.2,0.0221,2.08,29.71,duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,Google Ads,Healthcare,UK,2024-06-24,96575.0,4925.0,11820.0,181,7335.74,0.62,0.051,2.4,65.3,duplicate_row
+Search_Saas,Search - Saas,Google Ads,SaaS,India,2024-03-06,6044.0,146.0,164.98,5,611.36,3.71,0.0242,1.13,33.0,duplicate_row
+Search_Edtech,Search - Edtech,Google Ads,EdTech,USA,2024-08-03,151900.0,5270.0,5849.7,291,47553.46,8.13,0.0347,1.11,20.1,duplicate_row
+Video_Healthcare,Video - Healthcare,Google Ads,Healthcare,USA,2024-07-22,190826.0,12174.0,21304.5,933,139478.01,6.55,0.0638,1.75,22.83,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Google Ads,E-commerce,Australia,2024-04-03,112992.0,2802.0,8406.0,124,7395.68,0.88,0.0248,3.0,67.79,duplicate_row
+Shopping_Edtech,Shopping - Edtech,Google Ads,EdTech,UK,2024-12-11,154058.0,3728.0,9170.88,125,7520.81,0.82,0.0242,2.46,73.37,duplicate_row
+Video_Fintech,Video - Fintech,Google Ads,Fintech,Germany,2024-06-08,96658.0,2822.0,9510.14,112,25060.16,2.64,0.0292,3.37,84.91,duplicate_row
+Search_Fintech,Search - Fintech,Google Ads,Fintech,UK,2024-07-05,6881.0,357.0,817.53,5,872.75,1.07,0.052,2.29,163.51,duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,Germany,2024-01-07,25080.0,1113.0,2916.06,49,2232.61,0.77,0.0444,2.62,59.51,duplicate_row
+Search_Saas,Search - Saas,Google Ads,SaaS,Australia,2024-10-30,180590.0,4857.0,7334.07,333,91782.77,12.51,0.0269,1.51,22.02,duplicate_row
+Shopping_E-Commerce,Shopping - E-Commerce,Google Ads,E-commerce,UK,2024-11-09,170732.0,7700.0,6237.0,434,53677.08,8.61,0.0451,0.81,14.37,duplicate_row
+Display_Healthcare,Display - Healthcare,Google Ads,Healthcare,Australia,2024-01-21,,,,484,25632.04,1.07,0.0484,3.2,49.36,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Shopping_Saas,Shopping - Saas,Google Ads,SaaS,Canada,2024-12-07,144535.0,7588.0,23522.8,445,105358.98,4.48,0.0525,3.1,52.86,duplicate_row
+Search_Healthcare,Search - Healthcare,Google Ads,Healthcare,Germany,2024-01-11,,,,83,7504.87,1.1,0.0446,3.16,82.08,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Video_E-Commerce,Video - E-Commerce,Google Ads,E-commerce,Canada,2024-05-05,43634.0,1937.0,4610.06,58,15065.19,3.27,0.0444,2.38,79.48,duplicate_row
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,UK,2024-01-22,,,,411,64126.68,10.41,0.0385,1.18,14.99,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,TikTok Ads,Healthcare,Australia,2024-12-13,,,,936,60355.75,3.75,0.0776,1.08,17.19,missing_impressions | missing_clicks | missing_spend_usd
+Display_Edtech,Display - Edtech,TikTok Ads,EdTech,Germany,2024-12-19,,,,460,99299.9,14.57,0.0737,0.88,14.82,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,TikTok Ads,EdTech,Australia,2024-05-23,30517.0,2575.0,2060.0,205,7811.94,3.79,0.0844,0.8,10.05,duplicate_row
+Video_E-Commerce,Video - E-Commerce,TikTok Ads,E-commerce,Australia,2024-04-04,,,,213,10475.22,1.22,0.0397,1.49,40.31,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_E-Commerce,Shopping - E-Commerce,TikTok Ads,E-commerce,Canada,2024-08-19,,,,85,4068.49,1.36,0.0402,1.3,35.21,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Healthcare,Shopping - Healthcare,TikTok Ads,Healthcare,India,2024-10-20,,,,216,49228.57,6.15,0.0582,1.26,37.06,missing_impressions | missing_clicks | missing_spend_usd
+Search_Fintech,Search - Fintech,TikTok Ads,Fintech,India,2024-08-18,,,,143,23555.27,4.06,0.0853,1.71,40.57,missing_impressions | missing_clicks | missing_spend_usd
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,Canada,2024-04-14,,,,59,2846.94,0.7,0.0328,1.27,69.42,missing_impressions | missing_clicks | missing_spend_usd
+Video_Saas,Video - Saas,TikTok Ads,SaaS,Canada,2024-12-23,,,,74,14659.06,17.19,0.0768,0.5,11.53,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,TikTok Ads,SaaS,Germany,2024-06-26,131244.0,5604.0,2129.52,229,65541.49,30.78,0.0427,0.38,9.3,duplicate_row
+Search_Saas,Search - Saas,TikTok Ads,SaaS,UAE,2024-02-27,,,,645,54701.33,7.93,0.0704,0.5,10.69,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Video_E-Commerce,Video - E-Commerce,TikTok Ads,E-commerce,USA,2024-12-29,,,,12,2301.99,3.66,0.031,1.72,52.46,missing_impressions | missing_clicks | missing_spend_usd
+Video_Saas,Video - Saas,TikTok Ads,SaaS,USA,2024-11-27,,,,469,125930.93,22.53,0.0738,0.82,11.92,missing_impressions | missing_clicks | missing_spend_usd
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,India,2024-12-05,,,,37,10377.15,4.26,0.0289,1.18,65.86,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,TikTok Ads,SaaS,India,2024-12-24,,,,314,81199.4,10.75,0.0628,1.17,24.06,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,TikTok Ads,SaaS,UK,2024-04-04,199291.0,16660.0,19325.6,1016,207611.26,10.74,0.0836,1.16,19.02,duplicate_row
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,India,2024-03-14,24504.0,899.0,1276.58,41,3721.4,2.92,0.0367,1.42,31.14,duplicate_row
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,India,2024-12-05,,,,695,102403.13,5.88,0.069,1.48,25.06,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Video_Edtech,Video - Edtech,TikTok Ads,EdTech,Australia,2024-01-05,,,,29,5633.14,3.34,0.0568,0.57,58.1,missing_impressions | missing_clicks | missing_spend_usd
+Search_Saas,Search - Saas,TikTok Ads,SaaS,UAE,2024-04-04,57448.0,2338.0,1169.0,143,25654.56,21.95,0.0407,0.5,8.17,duplicate_row
+Shopping_Fintech,Shopping - Fintech,TikTok Ads,Fintech,UK,2024-11-16,,,,150,24443.12,6.03,0.0572,1.07,27.04,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Saas,Shopping - Saas,TikTok Ads,SaaS,Germany,2024-01-16,88940.0,4384.0,1402.88,66,10447.12,7.45,0.0493,0.32,21.26,duplicate_row
+Shopping_Edtech,Shopping - Edtech,TikTok Ads,EdTech,USA,2024-04-22,35932.0,1440.0,1310.4,68,16668.75,12.72,0.0401,0.91,19.27,duplicate_row
+Display_Edtech,Display - Edtech,TikTok Ads,EdTech,Canada,2024-04-01,30226.0,1196.0,1746.16,12,2625.21,1.5,0.0396,1.46,145.51,duplicate_row
+Display_Edtech,Display - Edtech,TikTok Ads,EdTech,Germany,2024-05-04,,,,289,23286.47,2.03,0.0537,1.78,39.76,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_Edtech,Shopping - Edtech,TikTok Ads,EdTech,Canada,2024-04-22,186006.0,9002.0,13683.04,266,31194.26,2.28,0.0484,1.52,51.44,duplicate_row
+Video_Edtech,Video - Edtech,TikTok Ads,EdTech,UK,2024-09-01,154676.0,5970.0,6507.3,107,14099.39,2.17,0.0386,1.09,60.82,duplicate_row
+Display_Healthcare,Display - Healthcare,TikTok Ads,Healthcare,Canada,2024-10-07,,,,240,46988.2,35.43,0.0367,0.29,5.53,missing_impressions | missing_clicks | missing_spend_usd
+Display_Fintech,Display - Fintech,TikTok Ads,Fintech,Germany,2024-02-07,,,,148,14545.74,4.1,0.0663,0.52,24.0,missing_impressions | missing_clicks | missing_spend_usd
+Video_Edtech,Video - Edtech,TikTok Ads,EdTech,Canada,2024-06-15,144585.0,8357.0,4345.64,412,78373.31,18.03,0.0578,0.52,10.55,duplicate_row
+Search_Healthcare,Search - Healthcare,TikTok Ads,Healthcare,India,2024-12-12,195512.0,8328.0,13574.64,198,14486.58,1.07,0.0426,1.63,68.56,duplicate_row
+Video_Saas,Video - Saas,TikTok Ads,SaaS,Germany,2024-09-03,,,,700,61706.24,5.15,0.0597,1.3,17.11,missing_impressions | missing_clicks | missing_spend_usd
+Shopping_E-Commerce,Shopping - E-Commerce,TikTok Ads,E-commerce,Canada,2024-06-03,77726.0,2557.0,1252.93,37,2932.31,2.34,0.0329,0.49,33.86,duplicate_row
+Video_Saas,Video - Saas,TikTok Ads,SaaS,UAE,2024-09-03,64222.0,2067.0,3906.63,68,14851.97,3.8,0.0322,1.89,57.45,duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,TikTok Ads,Healthcare,India,2024-09-10,144940.0,5333.0,6986.23,148,32610.09,4.67,0.0368,1.31,47.2,duplicate_row
+Video_Fintech,Video - Fintech,TikTok Ads,Fintech,USA,2024-02-12,41497.0,3299.0,2144.35,112,6822.75,3.18,0.0795,0.65,19.15,duplicate_row
+Shopping_Edtech,Shopping - Edtech,TikTok Ads,EdTech,USA,2024-12-27,131956.0,7772.0,2253.88,211,23120.58,10.26,0.0589,0.29,10.68,duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,TikTok Ads,Healthcare,Canada,2024-08-16,41113.0,2347.0,2253.12,33,2659.26,1.18,0.0571,0.96,68.28,duplicate_row
+Shopping_Healthcare,Shopping - Healthcare,TikTok Ads,Healthcare,Australia,2024-12-13,191994.0,14898.0,16089.84,936,60355.75,3.75,0.0776,1.08,17.19,duplicate_row
+Video_E-Commerce,Video - E-Commerce,TikTok Ads,E-commerce,USA,2024-02-02,,,,99,20435.34,2.28,0.0805,0.99,90.39,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Search_Saas,Search - Saas,TikTok Ads,SaaS,UAE,2024-02-27,195972.0,13796.0,6898.0,645,54701.33,7.93,0.0704,0.5,10.69,duplicate_row
+Display_Fintech,Display - Fintech,TikTok Ads,Fintech,UK,2024-06-22,187663.0,10790.0,7445.1,121,18190.79,2.44,0.0575,0.69,61.53,duplicate_row
+Search_Edtech,Search - Edtech,TikTok Ads,EdTech,Australia,2024-02-29,,,,87,12811.32,3.61,0.0289,1.71,40.82,missing_impressions | missing_clicks | missing_spend_usd | duplicate_row
+Display_Saas,Display - Saas,TikTok Ads,SaaS,USA,2024-12-26,149143.0,5175.0,2742.75,140,11705.28,4.27,0.0347,0.53,19.59,duplicate_row
+Search_Saas,Search - Saas,TikTok Ads,SaaS,UAE,2024-04-04,57448.0,2338.0,1169.0,143,25654.56,21.95,0.0407,0.5,8.17,duplicate_row
+Shopping_Fintech,Shopping - Fintech,TikTok Ads,Fintech,UAE,2024-09-24,132571.0,9147.0,9329.94,502,55471.3,5.95,0.069,1.02,18.59,duplicate_row
+Video_Fintech,Video - Fintech,TikTok Ads,Fintech,USA,2024-01-20,153145.0,7197.0,7340.94,89,6214.05,0.85,0.047,1.02,82.48,duplicate_row
+Video_E-Commerce,Video - E-Commerce,TikTok Ads,E-commerce,Australia,2024-04-04,145148.0,5762.0,8585.38,213,10475.22,1.22,0.0397,1.49,40.31,duplicate_row

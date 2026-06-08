@@ -1,0 +1,149 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+/*
+  Campfire Consulting light theme.
+  Warm off-white background with a dark sidebar and campfire orange accent.
+  Designed to match the clean, professional look of campfire.consulting.
+*/
+:root {
+  /* Page background: warm off-white (not pure white, slightly warm) */
+  --background: #FAFAF8;
+
+  /* Main text color: near-black for strong readability */
+  --foreground: #111111;
+
+  /* Card surface: pure white so cards pop off the off-white background */
+  --card: #FFFFFF;
+  --card-foreground: #111111;
+
+  /* Popover (dropdown menus, tooltips) */
+  --popover: #FFFFFF;
+  --popover-foreground: #111111;
+
+  /* Primary brand color: campfire orange, warm and on-brand */
+  --primary: #F97316;
+  --primary-foreground: #FFFFFF;
+
+  /* Secondary surface: very light gray for subtle backgrounds */
+  --secondary: #F5F5F3;
+  --secondary-foreground: #111111;
+
+  /* Muted: same light gray, used for de-emphasized sections */
+  --muted: #F5F5F3;
+  --muted-foreground: #6B7280;
+
+  /* Accent: same as primary, used for highlights */
+  --accent: #F97316;
+  --accent-foreground: #FFFFFF;
+
+  /* Destructive: red, used for error states */
+  --destructive: #EF4444;
+
+  /* Border and input: subtle gray that is visible but not distracting */
+  --border: #E5E7EB;
+  --input: #E5E7EB;
+
+  /* Focus ring color: matches primary */
+  --ring: #F97316;
+
+  /* Chart colors: warm tones that work well on white backgrounds */
+  --chart-1: #FF5656;
+  --chart-2: #FF8A56;
+  --chart-3: #F472B6;
+  --chart-4: #3B82F6;
+  --chart-5: #10B981;
+
+  /* Default border radius for all rounded elements */
+  --radius: 0.75rem;
+
+  /* Sidebar: dark charcoal to match Campfire's dark navigation bar */
+  --sidebar: #111111;
+  --sidebar-foreground: #F9F9F9;
+  --sidebar-primary: #F97316;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #1E1E1E;
+  --sidebar-accent-foreground: #F9F9F9;
+  --sidebar-border: rgba(255, 255, 255, 0.08);
+  --sidebar-ring: #F97316;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* Gradient used for the flame icon and accent headlines */
+.gradient-campfire {
+  background: linear-gradient(135deg, #F97316 0%, #FBBF24 100%);
+}
+
+/* Text gradient for hero headlines */
+.text-gradient {
+  background: linear-gradient(135deg, #F97316 0%, #FBBF24 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card style: white surface with a soft shadow and a subtle border */
+.surface-card {
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04);
+}

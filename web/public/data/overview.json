@@ -1,0 +1,69 @@
+{
+  "kpis": {
+    "total_spend": 10009903.780000001,
+    "total_impressions": 168367645,
+    "avg_ctr_pct": 3.8415422276621793,
+    "total_conversions": 296995,
+    "avg_roas": 6.513794369645043
+  },
+  "platform_efficiency": [
+    {
+      "platform": "Google Ads",
+      "total_spend": 5644016.380000001,
+      "total_impressions": 66028714,
+      "total_conversions": 117489,
+      "avg_ctr_pct": 3.973446676970634,
+      "avg_cpm": 85.69254333574624,
+      "avg_cpc": 2.150417310664606,
+      "avg_roas": 4.106584234930448,
+      "avg_cpa": 63.16714064914992
+    },
+    {
+      "platform": "Meta Ads",
+      "total_spend": 1927152.59,
+      "total_impressions": 59025256,
+      "total_conversions": 66395,
+      "avg_ctr_pct": 2.4825305410122165,
+      "avg_cpm": 32.7559418662535,
+      "avg_cpc": 1.3174694589877836,
+      "avg_roas": 6.9649563699825485,
+      "avg_cpa": 39.448411867364754
+    },
+    {
+      "platform": "TikTok Ads",
+      "total_spend": 2438734.81,
+      "total_impressions": 43313675,
+      "total_conversions": 113111,
+      "avg_ctr_pct": 5.516352657004831,
+      "avg_cpm": 55.336823467428935,
+      "avg_cpc": 1.0048792270531401,
+      "avg_roas": 9.65135265700483,
+      "avg_cpa": 28.749347826086954
+    }
+  ],
+  "data_health": {
+    "total_rows": 1852,
+    "clean_rows": 1634,
+    "flagged_rows": 218,
+    "pct_flagged": 11.771058315334773,
+    "status": "WARNING",
+    "flag_breakdown": [
+      {
+        "flag_type": "duplicate_row",
+        "count": 136
+      },
+      {
+        "flag_type": "missing_impressions",
+        "count": 92
+      },
+      {
+        "flag_type": "missing_clicks",
+        "count": 92
+      },
+      {
+        "flag_type": "missing_spend_usd",
+        "count": 92
+      }
+    ]
+  }
+}
